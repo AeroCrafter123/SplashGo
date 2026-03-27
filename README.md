@@ -5,47 +5,75 @@ A smart handwashing robot that makes hygiene fun, efficient, and measurable for 
 
 ---
 
-## 🌟 Our Inspiration
+## 🌟 Inspiration
 
-It started in our school cafeteria, where we watched younger kids rush through handwashing without using soap while a single teacher tried to supervise thirty students. That moment sparked our question:
+It started in our school cafeteria, where we observed younger students rushing through handwashing without using soap while a single teacher struggled to supervise dozens of children.
+
+This led us to ask:
 
 **How might we make handwashing fun, measurable, and efficient?**
 
 ---
 
-## 💡 What it does
+## 💡 What we're building
 
-We built **Splash Go**, a child-friendly smart handwashing robot that:
+We are developing **Splash Go**, a child-friendly smart handwashing system that combines:
 
-- 💧 Uses atomized water-saving technology to reduce water usage by **90%**
-- 🎮 Provides gamified voice guidance to boost proper handwashing compliance from **18% to 92%**
-- 📱 Syncs real-time data to parents and teachers via **WeChat**
-- 📊 Tracks hygiene behavior and progress
-
----
-
-## 🛠️ Challenges
-
-The biggest challenge was calibrating our AI motion sensor for children's height.
-
-We went through **four failed prototypes** before achieving a reliable solution. This experience taught us that:
-> Real user testing matters more than perfect specifications.
+- 💧 Water-saving atomization technology
+- 🎮 Gamified guidance to improve engagement
+- 🤖 AI-based hand tracking for behavior detection
+- 📱 Real-time feedback for parents and teachers
 
 ---
 
-## 🏆 Accomplishments
+## 🧪 Current Progress (HackMIT Live Development)
 
-- 📉 Reduced water usage by **90%**
-- 📈 Improved proper handwashing compliance from **18% to 92%**
-- ⏱️ Reduced habit-forming time by **60%** during our campus pilot
+We have built an initial prototype of our **AI hand tracking module**, which is the core of our system.
+
+- Implemented real-time hand detection using OpenCV and MediaPipe in well conditions
+- Successfully ran prototype on a laptop environment
+- Developed multiple iterations of the tracking system
+
+However, when deploying to **Raspberry Pi**, we encountered performance challenges:
+
+- ⚠️ Frame rate drops and lag
+- ⚠️ Limited hardware processing power
+- ⚠️ Need for further optimization and lightweight models
+
+# This code cannot be applied to the Raspberry Pi, so we are still working on optimizing it, and meanwhile, our teammates are starting to build our physical prototype.
+This is currently our **main focus during HackMIT**.
 
 ---
 
-## 🔮 What's next
+## ⚙️ Technical Stack
 
-- 🏫 Scale Splash Go to more schools
-- 🤖 Add personalized hygiene coaching features
-- 📊 Enhance data analytics and feedback systems
+- Python
+- OpenCV
+- MediaPipe
+- Raspberry Pi (edge deployment target)
+
+---
+
+## 🚧 Challenges
+
+- Adapting auto hand tracking to low-power devices
+- Maintaining accuracy while improving performance
+- Designing a system suitable for real-world school environments
+
+---
+
+## 🔮 During HackMIT, we plan to:
+
+- 🚀 Optimize performance for Raspberry Pi deployment
+- 🎯 Improve the stability of hand detection
+- 🛠️ Build our physical prototype
+- 📱 Design and develop the Android app interface
+
+---
+
+## 🏆 Vision
+
+We aim to transform handwashing from a routine task into an engaging, data-driven experience that helps children build lifelong hygiene habits.
 
 ---
 
@@ -59,6 +87,8 @@ Michael Zhao
 From Tsinglan School
 
 ---
+
+Features and performance are continuously being improved.
 
 ## 📬 Contact
 
