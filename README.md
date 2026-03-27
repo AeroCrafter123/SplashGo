@@ -88,8 +88,10 @@ From Tsinglan School
 
 ---
 
-Features and performance are continuously being improved.
-
 ## 📬 Contact
 
 Feel free to reach out for collaboration or questions during the sharing section!
+
+---
+
+Features and performance are continuously being improved.
