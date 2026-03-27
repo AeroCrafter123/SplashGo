@@ -86,8 +86,6 @@ Michael Zhao
 
 From Tsinglan School
 
----
-
 ## 📬 Contact
 
 Feel free to reach out for collaboration or questions during the sharing section!
