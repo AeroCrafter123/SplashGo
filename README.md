@@ -3,6 +3,8 @@ Germ Killer Team | HackMIT Project
 
 A smart handwashing robot that makes hygiene fun, efficient, and measurable for children.
 
+Notes: Files starting with test_vn.py are our hand recognition handwashing scoring program.
+
 ---
 
 ## 🌟 Inspiration
@@ -40,7 +42,6 @@ However, when deploying to **Raspberry Pi**, we encountered performance challeng
 - ⚠️ Limited hardware processing power
 - ⚠️ Need for further optimization and lightweight models
 
-### This code cannot be applied to the Raspberry Pi, so we are still working on optimizing it, and meanwhile, our teammates are starting to build our physical prototype.
 This is currently our **main focus during HackMIT**.
 
 ---
