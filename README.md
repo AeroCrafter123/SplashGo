@@ -40,7 +40,7 @@ However, when deploying to **Raspberry Pi**, we encountered performance challeng
 - ⚠️ Limited hardware processing power
 - ⚠️ Need for further optimization and lightweight models
 
-## This code cannot be applied to the Raspberry Pi, so we are still working on optimizing it, and meanwhile, our teammates are starting to build our physical prototype.
+### This code cannot be applied to the Raspberry Pi, so we are still working on optimizing it, and meanwhile, our teammates are starting to build our physical prototype.
 This is currently our **main focus during HackMIT**.
 
 ---
